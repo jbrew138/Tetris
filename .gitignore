@@ -1,0 +1,8 @@
+/.settings/
+/.svn/
+/bin/
+.checkstyle
+.classpath
+.fbprefs
+.project
+.pmd
